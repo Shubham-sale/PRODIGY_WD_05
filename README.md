@@ -24,7 +24,7 @@ This is a weather web application built using React. It allows users to fetch cu
 
 ## API Key
 
-This project uses the OpenWeatherMap API to fetch weather data. You need to replace `'YOUR_API_KEY'` in the `App.js` or relevant component file with your actual OpenWeatherMap API key. You can obtain a free API key by signing up on the OpenWeatherMap website.
+This project uses the OpenWeatherMap API to fetch weather data. You need to replace `'YOUR_API_KEY'` in the `Weather.js` or relevant component file with your actual OpenWeatherMap API key. You can obtain a free API key by signing up on the OpenWeatherMap website.
 
 ## Installation and Setup
 
