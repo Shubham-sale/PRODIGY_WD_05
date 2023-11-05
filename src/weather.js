@@ -6,7 +6,7 @@ function Weather() {
   const [city, setCity] = useState("");
   const [weatherData, setWeatherData] = useState(null);
   const [loading, setLoading] = useState(true);
-  const API_KEY = "4463115373bda94a5fe65801dec4aadd";
+  const API_KEY = "YOUR_API_KEY";
 
   const fetchData = async (query) => {
     try {
